@@ -14,6 +14,6 @@ The page contains its own styles and requires no package installation or build c
 
 - [Heidrun organization profile](https://github.com/heidrun-org)
 - [Organization profile source](https://github.com/heidrun-org/.github)
-- [Heidrun application](https://github.com/heidrun-org/heidrun)
-- [Heidrun project website](https://heidrun-org.github.io/heidrun/)
-- [Heidrun documentation](https://heidrun-org.github.io/heidrun/documentation/)
+- [Heidrun application](https://github.com/heidrun-org/heidrun_code)
+- [Heidrun project website](https://heidrun-org.github.io/heidrun_code/)
+- [Heidrun documentation](https://heidrun-org.github.io/heidrun_code/documentation/)
